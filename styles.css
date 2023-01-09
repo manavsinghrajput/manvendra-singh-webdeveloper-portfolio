@@ -180,10 +180,6 @@ body {
     padding-bottom: 1rem;
 }
 
-.showcase-blog {
-    padding-bottom: 6rem;
-}
-
 @media (max-width: 900px) {
     body {
         max-width: 95%;
