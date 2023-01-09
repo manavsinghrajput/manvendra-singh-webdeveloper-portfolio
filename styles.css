@@ -163,3 +163,19 @@ body {
     border: 1px solid var(--primary-color);
     color: var(--primary-color);
 }
+
+/* projects */
+.showcase-list {
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 3rem auto;
+}
+
+.showcase-list h1 {
+    margin: 0.5rem;
+}
+
+.showcase-list p {
+    padding-bottom: 1rem;
+}
