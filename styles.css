@@ -59,7 +59,7 @@ body {
 
 .hero .hero-heading {
     text-align: center;
-    padding-top 1rem;
+    padding-top: 1rem;
     color: var(--dark-grey);
 }
 
